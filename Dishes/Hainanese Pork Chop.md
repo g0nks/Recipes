@@ -68,7 +68,7 @@
 
 ### Step 4: Cut and serve
 
-[<img src="7547260824_16395d70a5_z.jpg">](https://i0.wp.com/farm8.staticflickr.com/7115/)
+[<img src="/Images/HainanesePork.jpg">](https://i0.wp.com/farm8.staticflickr.com/7115/7547260824_16395d70a5_z.jpg)
 
 
 ### References 
