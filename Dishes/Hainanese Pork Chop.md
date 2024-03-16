@@ -15,10 +15,11 @@
 - 2 tbsp tau cheo (havent tried)
 
 *Breading*
-- 18 soda cream crackers
-- 2 eggs
-Alternative
-- all purpose flour 
+- Cracker
+    - 18 soda cream crackers
+    - 2 eggs
+- Flour
+    - 1/2 cup all purpose flour 
 
 *For Sauce*
 - 1/2 Red Onion
@@ -43,13 +44,13 @@ Alternative
 
 ### Step 2: Fry pork
 
-- Beat/process crackers into crumbs
-- Add beaten eggs to marinated pork
-- Dredge through cracker crumbs 
-
-Alternative
-
-- Dredge through flour with no eggs for quicker result
+- Pork Coating alternatives
+    - Crackers
+        - Beat/process crackers into crumbs
+        - Add beaten eggs to marinated pork
+        - Dredge through cracker crumbs 
+    - Flour
+        - Dredge through flour with no eggs for quicker result
 
 - Fry pork
     - Shallow fry in cast iron 
