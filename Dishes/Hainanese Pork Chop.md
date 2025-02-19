@@ -3,7 +3,6 @@
 [<img src="/Images/HainanesePork.jpg">](https://i0.wp.com/farm8.staticflickr.com/7115/7547260824_16395d70a5_z.jpg)
 
 ## Main Ingredients
-
 *For 500g Pork Chop/loin*
 - Pork chops/loin
 - 1/2 tsp baking soda
@@ -34,42 +33,41 @@
 - 1/4 tsp white pepper powder
 - 1 tbsp Shiaoxing wine (optional)
 - 1 cup water
-
 - 1 tbsp cornstarch + 2 tbsp water (for thickening later)
 
 
 ### Step 1: Marinate pork
 
-- Tenderise pork with mallet, aim to be 0.5 - 1 cm
-- Mix all ingredients and massage pork
-- Marinate, min 10m , recommend 1hr
+    - Tenderise pork with mallet, aim to be 0.5 - 1 cm
+    - Mix all ingredients and massage pork
+    - Marinate, min 10m , recommend 1hr
 
 ### Step 2: Fry pork
 
-- Pork Coating alternatives
-    - Crackers
-        - Beat/process crackers into crumbs
-        - Add beaten eggs to marinated pork
-        - Dredge through cracker crumbs 
-    - Flour
-        - Dredge through flour with no eggs for quicker result
+    - Pork Coating alternatives
+        - Crackers
+            - Beat/process crackers into crumbs
+            - Add beaten eggs to marinated pork
+            - Dredge through cracker crumbs 
+        - Flour
+            - Dredge through flour with no eggs for quicker result
 
-- Fry pork
-    - Shallow fry in cast iron 
-    - Deep Fry 
+    - Fry pork
+        - Shallow fry in cast iron 
+        - Deep Fry 
 
-- Rest of rack after frying
+    - Rest of rack after frying
 
 ### Step 3: Cook sauce 
-- Defrost frozen veggies or par cook in micro, finishing will be done in pan
-- Set aside veggies 
-- Mix all other ingredients in bowl (not cornstarch slurry)
-- Sweat onion in pan, add other veggies at the end 
-- Add liquid mix and bring to boil, dont overcook veggies
-- Stir in cornstarch slurry in parts to thicken to liking.
+    - Defrost frozen veggies or par cook in micro, finishing will be done in pan
+    - Set aside veggies 
+    - Mix all other ingredients in bowl (not cornstarch slurry)
+    - Sweat onion in pan, add other veggies at the end 
+    - Add liquid mix and bring to boil, dont overcook veggies
+    - Stir in cornstarch slurry in parts to thicken to liking.
 
 ### Step 4: Cut and serve
 
 ### References 
-- https://www.youtube.com/watch?v=cKw-47RvbM4
-- https://travellingfoodies.wordpress.com/2012/07/11/hainanese-deep-fried-pork-Chops
+    - https://www.youtube.com/watch?v=cKw-47RvbM4
+    - https://travellingfoodies.wordpress.com/2012/07/11/hainanese-deep-fried-pork-Chops
