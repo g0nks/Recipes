@@ -1,5 +1,7 @@
 # _KL Hokkien Mee - Black Noodles_
 
+[<img src="/Images/KLHokkienMee.jpg">]
+
 ## Main Ingredients
 
 *For 1 Packet Noodles*
@@ -38,4 +40,3 @@
 ### Step 4: Finishing
     - Add pork Lardon just before removing from heat
     - crack egg and stir in before serving, heat should cause egg form a silky sauce
-[<img src="/Images/KLHokkienMee.jpg">]

@@ -1,5 +1,7 @@
 # _Hainanese Pork Chops_
 
+[<img src="/Images/HainanesePork.jpg">](https://i0.wp.com/farm8.staticflickr.com/7115/7547260824_16395d70a5_z.jpg)
+
 ## Main Ingredients
 
 *For 500g Pork Chop/loin*
@@ -67,9 +69,6 @@
 - Stir in cornstarch slurry in parts to thicken to liking.
 
 ### Step 4: Cut and serve
-
-[<img src="/Images/HainanesePork.jpg">](https://i0.wp.com/farm8.staticflickr.com/7115/7547260824_16395d70a5_z.jpg)
-
 
 ### References 
 - https://www.youtube.com/watch?v=cKw-47RvbM4
